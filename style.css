@@ -594,6 +594,29 @@ html {
     background-image: url(https://hblimg.mmtcdn.com/content/hubble/img/collections/m_romantic44_p_540_417.jpg);
     border-radius: 10px;
 }
+.album-b {
+    background-size: 200px;
+    background-image: url(https://hblimg.mmtcdn.com/content/hubble/img/collections/m_honeymoon11_p_540_417.jpg);
+    border-radius: 10px;
+}
+
+.album-c {
+    background-size: 200px;
+    background-image: url(https://hblimg.mmtcdn.com/content/hubble/img/TI/mmt/activities/m_curated_collection_international_destination_july_p_403_403.jpg);
+    border-radius: 10px;
+}
+
+.album-d {
+    background-size: 200px;
+    background-image: url(https://hblimg.mmtcdn.com/content/hubble/img/collections/m_beach44_p_540_417.jpg);
+    border-radius: 10px;
+}
+
+.album-e {
+    background-size: 200px;
+    background-image: url(https://hblimg.mmtcdn.com/content/hubble/img/collections/m_weekend44_p_540_417.jpg);
+    border-radius: 10px;
+}
 
 .album1 {
     width: 20rem;
